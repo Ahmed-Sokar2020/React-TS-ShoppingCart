@@ -1,0 +1,50 @@
+[
+    {
+    "id": 1,
+    "name": "Mobile",
+    "price": 1000.99,
+    "imgUrl": "/assets/imgs/mobile.png",
+    "description":"Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday."
+    },
+    {
+    "id": 2,
+    "name": "Laptop",
+    "price": 3199,
+    "imgUrl": "/assets/imgs/laptop.png",
+    "description":"Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable wearing."
+
+    },
+    {
+    "id": 3,
+    "name": "Perfume",
+    "price": 100.05,
+    "imgUrl": "/assets/imgs/perfume.png",
+    "description":"great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping."
+
+    },
+    {
+    "id": 4,
+    "name": "Playstation",
+    "price": 4400,
+    "imgUrl": "/assets/imgs/playstation.png",
+    "description":"The color could be slightly different between on the screen and in practice,body builds should be reviewed below on description."
+
+    }
+    ,
+    {
+    "id": 5,
+    "name": "Toy",
+    "price": 1500,
+    "imgUrl": "/assets/imgs/toy.png",
+    "description":"From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl."
+
+    },
+    {
+    "id": 6,
+    "name": "Camera",
+    "price": 3000,
+    "imgUrl": "/assets/imgs/cam.png",
+    "description":"Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday"
+
+    }
+]
