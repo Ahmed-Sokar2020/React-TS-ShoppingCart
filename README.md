@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Responsive shopping cart built with React framework and deployed to gh-pages. 
+
+Features:
+• Responsive Web Design.
+• State management by useContext hook.
+
+![The Project Image](https://tinyurl.com/27o93uav)
 
 ## Available Scripts
 
