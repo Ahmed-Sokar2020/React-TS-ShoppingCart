@@ -1,12 +1,19 @@
-# Getting Started with Create React App
+# shopping cart App
 
 Responsive shopping cart built with React framework and deployed to gh-pages. 
+
+![The Project Image:](https://news.okstate.edu/articles/agriculture/images/shopping_cart_banner.jpg)
 
 Features:
 • Responsive Web Design.
 • State management by useContext hook.
 
-![The Project Image](https://tinyurl.com/27o93uav)
+Built using:
+- CSS
+- Front-end library: React
+- CSS framework: React-bootstrap
+- Typescript
+
 
 ## Available Scripts
 
