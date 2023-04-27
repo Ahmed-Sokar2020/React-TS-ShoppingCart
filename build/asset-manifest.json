@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-TS-ShoppingCart/static/css/main.fafe4433.css",
+    "main.js": "/React-TS-ShoppingCart/static/js/main.6e751595.js",
+    "index.html": "/React-TS-ShoppingCart/index.html",
+    "main.fafe4433.css.map": "/React-TS-ShoppingCart/static/css/main.fafe4433.css.map",
+    "main.6e751595.js.map": "/React-TS-ShoppingCart/static/js/main.6e751595.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fafe4433.css",
+    "static/js/main.6e751595.js"
+  ]
+}
